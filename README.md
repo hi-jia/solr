@@ -1,0 +1,2 @@
+# solr
+solrcould测试
